@@ -1,5 +1,7 @@
 // JavaScript Document
 /*jshint esversion: 6 */
+
+// 09/10/19
 var pc={
 	pc1SourceBig: 'content/images/big/pc1_big.jpg',
 	pc1SourceSmall: 'content/images/small/pc1_small.jpg',
